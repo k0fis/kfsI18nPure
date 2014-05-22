@@ -1,5 +1,7 @@
-package kfs.kfsUtils.kfsI18nPure;
+package kfs.kfsI18nPure;
 
+import kfs.kfsI18nPure.kfsMsgFactory;
+import kfs.kfsI18nPure.kfsMsg;
 import java.util.Locale;
 import junit.framework.TestCase;
 

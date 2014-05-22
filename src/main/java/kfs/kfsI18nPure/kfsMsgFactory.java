@@ -1,4 +1,4 @@
-package kfs.kfsUtils.kfsI18nPure;
+package kfs.kfsI18nPure;
 
 import java.util.HashMap;
 import java.util.Locale;
